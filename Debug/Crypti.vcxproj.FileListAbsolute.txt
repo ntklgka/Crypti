@@ -1,0 +1,4 @@
+C:\Users\Andrei\source\repos\Crypti\Debug\Crypti.exe
+C:\Users\Andrei\source\repos\Crypti\Debug\Crypti.pdb
+C:\Users\Andrei\source\repos\Crypti\Debug\Crypti.vcxproj.CopyComplete
+C:\Users\Andrei\source\repos\Crypti\Debug\cpprest_2_10d.dll
