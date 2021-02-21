@@ -360,3 +360,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+Crypti.vcxproj.filters
+Crypti.vcxproj
+Crypti.sln
